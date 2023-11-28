@@ -23,7 +23,7 @@ For those interested in distance learning, the website highlights the UG-CDCD cl
 3. It has a tab for Academics where the course curriculum is provided
 4. It has a People tab, which gives us information about staff.
 5. A screenshot of the header section
-![Screenshot for header](../Screenshots/Screenshot%202023-11-28%20213201.png)
+![Screenshot for header]("../Screenshots/Screenshot 2023-11-28 213201.png")
 ## the footer for the pages
 screenshot
 ![foot](../Screenshots/Screenshot%202023-11-28%20213359.png)
