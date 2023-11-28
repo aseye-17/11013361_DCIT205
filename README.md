@@ -1,5 +1,5 @@
-STUDENT ID 11134121
-NAME: BOAFO OPPONG SAMUEL
+STUDENT ID: 11013361
+NAME: Fulbert Aseye Kemeh
 # A brief introduction about my computer science
 
 We're excited to share the latest updates on My Computer Science, your primary resource for all things related to computer science. Our team has worked diligently to enhance your browsing experience and provide more valuable content. The new website introduces several features that were not present in the previous version.
@@ -23,32 +23,32 @@ For those interested in distance learning, the website highlights the UG-CDCD cl
 3. It has a tab for Academics where the course curriculum is provided
 4. It has a People tab, which gives us information about staff.
 5. A screenshot of the header section
-![Screenshot for header]("../Screenshots/Screenshot 2023-11-28 213201.png")
+![Screenshot for header]("/Screenshots/Screenshot%202023-11-28%20213201.png")
 ## the footer for the pages
 screenshot
-![foot](../Screenshots/Screenshot%202023-11-28%20213359.png)
+![foot](/Screenshots/Screenshot%202023-11-28%20213359.png)
 
 ## body of my computer science website home page
-![description1](../Screenshots/Screenshot%202023-11-28%20211617.png)
+![description1](/Screenshots/Screenshot%202023-11-28%20211617.png)
 
 1. Short courses offered by the department
 2. Fun Facts
 3. Testimonials
 5. screen shot below
-   ![courses details](../Screenshots/Screenshot%202023-11-28%20211617.png)
+   ![courses details](Screenshots/Screenshot%202023-11-28%20211617.png)
 ## ABOUT MY REGISTER PAGE
 This page helps people register their programs online, such as web development and software development courses.
 2. A picture of the page
-   ![Register page](../Screenshots/Screenshot%202023-11-28%20211737.png)
+   ![Register page](Screenshots/Screenshot%202023-11-28%20211737.png)
 ## Screenshots of the rest of the pages
-    ![Help page](../Screenshots/Screenshot%202023-11-28%20211749.png)
-    ![About Us Page](../Screenshots/Screenshot%202023-11-28%20211828.png)
-    ![Contact Us Page](../Screenshots/Screenshot%202023-11-28%20211803.png)
-    ![Research Page](../Screenshots/Screenshot%202023-11-28%20211725.png)
-    ![News Page](../Screenshots/Screenshot%202023-11-28%20211700.png)
-    ![People Page](../Screenshots/Screenshot%202023-11-28%20211714.png)
-    ![Academic Page](../Screenshot/Screenshot%202023-11-28%20211634.png)
-    ![Admissions Page](../Screenshots/Screenshot%202023-11-28%20211650.png)
+   ![Help page](/Screenshots/Screenshot%202023-11-28%20211749.png)
+    ![About Us Page](/Screenshots/Screenshot%202023-11-28%20211828.png)
+    ![Contact Us Page](/Screenshots/Screenshot%202023-11-28%20211803.png)
+    ![Research Page](/Screenshots/Screenshot%202023-11-28%20211725.png)
+    ![News Page](/Screenshots/Screenshot%202023-11-28%20211700.png)
+    ![People Page](/Screenshots/Screenshot%202023-11-28%20211714.png)
+    ![Academic Page](/Screenshot/Screenshot%202023-11-28%20211634.png)
+    ![Admissions Page](/Screenshots/Screenshot%202023-11-28%20211650.png)
 ## INSTRUCTIONS ON HOW TO CLONE AND SETUP MY COMPUTER SCIENCE WEBSITE
 Forking a Repository:
 Go to GitHub:
